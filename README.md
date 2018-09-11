@@ -1,4 +1,4 @@
-Arithmetic Operations
+Hackerrank exercies
 ======
 
-Evaluate expression and display correct output.
+Excercises to improve my skills ;)
